@@ -71,3 +71,6 @@ Supercell with Spin–Orbit Coupling", GitHub repository, 2026.
 ## License
 
 The input file, output data, and documentation in this repository are licensed under [CC BY 4.0](LICENSE). Quantum ESPRESSO, the software used to produce these results, is separate open-source software licensed under the GNU GPL — see [quantum-espresso.org](https://www.quantum-espresso.org) for its own terms.
+
+##Note
+This is a personal project, written without any AI assistance, so it might contain some mistakes or issues. Feel free to reach out if you run into any problems. aminfakharipasandi@gmail.com
