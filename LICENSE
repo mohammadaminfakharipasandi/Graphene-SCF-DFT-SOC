@@ -1,0 +1,28 @@
+This repository — including the input file, output data, source code,
+and documentation — is licensed under a Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+Copyright (c) 2026 Mohammadamin Fakharipasandi
+
+You are free to:
+  - Share   — copy and redistribute the material in any medium or format
+  - Adapt   — remix, transform, and build upon the material for any
+              purpose, including scientific, research, and commercial use
+
+Under the following terms:
+  - Attribution — You must give appropriate credit and indicate if
+    changes were made, using the citation/reference format described
+    in the README of this repository.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Note: This repository does not include or redistribute the Quantum
+ESPRESSO source code. Quantum ESPRESSO is separately licensed under
+the GNU General Public License (GPL) — see https://www.quantum-espresso.org
+for details. This license applies only to the original files authored
+for this repository (input file, output data, source code, and
+documentation), not to the third-party software used to generate them.
