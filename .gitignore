@@ -1,0 +1,11 @@
+# Quantum ESPRESSO run artifacts (large, regenerable from the input file)
+out/
+*.save/
+*.wfc*
+*.mix*
+*.igk*
+*.hub
+CRASH
+
+# Pseudopotentials (download separately, see README)
+pseudo/
